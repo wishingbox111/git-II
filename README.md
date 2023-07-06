@@ -65,7 +65,7 @@ ____________
   
 *Reason of choose these 4 commands*
      
-     As I would most likely work on a branch to edit a file. Hence with every change, there'll be a need to create branch, add files to branch from local repo and commit and push it to be a complete cycle. 
+As I would most likely work on a branch to edit a file. Hence with every change, there'll be a need to create branch, add files to branch from local repo and commit and push it to be a complete cycle. 
 
 
 ## References
