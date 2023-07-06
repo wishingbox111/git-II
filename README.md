@@ -72,3 +72,11 @@ As I would most likely work on a branch to edit a file. Hence with every change,
 - https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github
 - https://git-scm.com/docs/pretty-formats - pretty formats
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax - all formats for Github
+
+### More Information
+- https://www.youtube.com/watch?v=U_IFGpJDbeU
+
+### Readings
+- https://www.flagship.io/git-branching-strategies/
+- https://opensource.com/article/18/6/git-reset-revert-rebase-commands
+- https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting
