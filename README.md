@@ -63,7 +63,11 @@ ____________
 - `git commit -m “Comment of the changes”`
 - `git push --set-upstream origin <new-branch-name>` - note <> should not be in the code
   
+*Reason of choose these 4 commands*
+     As I would most likely work on a branch to edit a file. Hence with every change, there'll be a need to create branch, add files to branch from local repo and commit and push it to be a complete cycle. 
 
 
 ## References
 - https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github
+- https://git-scm.com/docs/pretty-formats - pretty formats
+- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax - all formats for Github
